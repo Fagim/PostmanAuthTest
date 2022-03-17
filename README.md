@@ -1,1 +1,1 @@
-# PostmanAuthTest
+Введите логин пароль в в тектовом файле logon_data.txt
